@@ -1,0 +1,12 @@
+Put these software in this place 
+----------------------------------------
+Advanced IP Scanner v2
+BanglaDictionary
+Chrome
+Glary_Utilities
+kmp
+pidgin-2.7.3-offline
+Skype
+System Mechanics
+QuickFix
+TeamViewer
