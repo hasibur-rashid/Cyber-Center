@@ -17,7 +17,7 @@ A complete open source cyber cafe management system based on java standard editi
 
 ### Preview 
 
-|![](https://iamhasib.files.wordpress.com/2014/01/cyber-center-14.jpg)| ![]https://iamhasib.files.wordpress.com/2014/01/cyber-center-15.jpg)|
+|![](https://iamhasib.files.wordpress.com/2014/01/cyber-center-14.jpg)| ![](https://iamhasib.files.wordpress.com/2014/01/cyber-center-15.jpg)|
 | ------ | ------ |
 ![](https://iamhasib.files.wordpress.com/2014/01/cyber-center-8.jpg) |![](https://iamhasib.files.wordpress.com/2014/01/cyber-center-10.jpg)|
 
